@@ -759,7 +759,7 @@
     "title": "Ocena",
     "to_correct": "Do poprawienia",
     "improvable": "Do ulepszenia",
-    "acceptable": "Do zaakceptowania",
+    "acceptable": "Akceptowalna",
     "evaluation_comment": "Komentarz do oceny",
     "action_plan_comment": "Plan działania / działania naprawcze",
     "placeholder_to_correct": "Można wpisać komentarz wyjaśniający, dlaczego dostarczone informacje nie są wystarczające dla przeprowadzenia oceny. Tę sekcję nalezy odesłać do edycji w celu uzupełnienia pierwotnej propozycji.",
@@ -779,7 +779,7 @@
       "0": "Oczekujące",
       "1": "Do poprawienia",
       "2": "Do ulepszenia",
-      "3": "Do zaakceptowania"
+      "3": "Akceptowalny"
     }
   },
   "help": {
